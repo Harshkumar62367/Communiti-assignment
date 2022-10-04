@@ -6,8 +6,22 @@ This project if for Communiti assignenment.
 
 ## To run this project.
 
-1. Initialize package.json, through this command
+1. Clone this repo
+
+2. Initialize package.json, through this command
 
 ```
 npm init -y
+```
+
+3. Run this commmand to install npm modules.
+
+```
+npm install
+```
+
+4. Run this command to execute the index.js file
+
+```
+node index.js
 ```
