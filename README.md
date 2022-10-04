@@ -25,3 +25,5 @@ npm install
 ```
 node index.js
 ```
+
+Haven't made any frontend, as that was not necessary for the project right now.
