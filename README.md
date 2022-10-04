@@ -2,7 +2,6 @@
 
 This project if for Communiti assignenment.
 
-<br>
 <hr>
 
 ## To run this project.
@@ -10,7 +9,5 @@ This project if for Communiti assignenment.
 1. Initialize package.json, through this command
 
 ```
-
 npm init -y
-
 ```
